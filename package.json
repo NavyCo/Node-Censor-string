@@ -1,0 +1,19 @@
+{
+  "name": "Node-Censor-string",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/NavyCo/Node-Censor-string.svg?branch=master)](https://travis-ci.org/NavyCo/Node-Censor-string)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NavyCo/Node-Censor-string.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavyCo/Node-Censor-string/issues"
+  },
+  "homepage": "https://github.com/NavyCo/Node-Censor-string"
+}
